@@ -22,3 +22,35 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+   
+
+#apple-pie-container {
+  margin: 20px 500px;
+
+}
+
+#apple-pie {
+  background-image: url("../images/apple-pie.jpg");
+  background-size: cover;
+  height: 400px;
+  width: 700px;
+}
+
+#apple-pie h1 {
+  color: white;
+  padding: 150px 250px;
+  font-size: 45px;
+}
+
+#apple-pie-container p {
+  text-align: center;
+  width: 700px;
+  font-size: 20px;
+  padding-inline-start: 20px auto;
+
+}
+
+#apple-pie-container hr {
+  padding: 150px auto;
+  width: 700px;
+}
